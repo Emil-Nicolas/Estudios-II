@@ -21,3 +21,5 @@ for linea in lineas:
     personas.append(persona)
 for persona in personas:
     print(f"id={persona['id']} {persona['nombre']} {persona['apellido']} {persona['nacimiento']}")
+
+print("hola")
