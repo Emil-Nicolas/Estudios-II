@@ -4,7 +4,7 @@ de forma amigable todos sus campos. Por ejemplo así:
 (id=1) Carlos Pérez => 05/01/1989
 El fichero de texto se denominará personas.txt y tendrá el siguiente contenido en texto plano (créalo previamente):
 
-1;Carlos;Pérez;05/01/1989
+1;Carlos;Pérez;05/01/1989 
 2;Manuel;Heredia;26/12/1973
 3;Rosa;Campos;12/06/1961
 4;David;García;25/07/2006
